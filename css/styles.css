@@ -1,7 +1,25 @@
 body {
   padding-top: 5rem;
+  font-family: 'Roboto', sans-serif;
 }
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+  font-family: 'Anton', sans-serif; 
+
+}
+
+h3{
+  font-family: 'Anton', sans-serif;
+}
+
+.carousel {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+.img-div img{
+  border-radius: 300px;
+  max-width: 200px;
 }
